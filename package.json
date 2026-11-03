@@ -1,0 +1,25 @@
+{
+  "name": "heroforge-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --go",
+    "web": "expo start --web --localhost --port 8086"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@expo/metro-runtime": "~58.0.17",
+    "@reduxjs/toolkit": "^2.14.0",
+    "expo": "^58.0.23",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-native": "0.88.1",
+    "react-native-safe-area-context": "~5.11.1",
+    "react-native-web": "^0.21.4",
+    "react-redux": "^9.3.1"
+  }
+}
